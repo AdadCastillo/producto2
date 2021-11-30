@@ -1,0 +1,20 @@
+{
+	"short_name": "PWA6",
+	"name": "Progressive Web App 6",
+	"icons": [
+		{
+			"src": "../iconos/i192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "../iconos/i512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"start_url": "../index.html?source=pwa",
+	"display": "standalone",
+	"background_color": "#FFFFFF",
+	"theme_color": "#3653B3"
+}
